@@ -1,2 +1,3 @@
-Здравствуйте
-Что-то делаю
+Hello
+Doing something
+Doing something again
